@@ -1,0 +1,184 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Rahul Sharma",
+      "title": "Professional Tennis Player",
+      "address": "123, ABC Street,\nSector 4, Rohini,\nNew Delhi - 110085,\nIndia"
+    },
+    {
+      "id": 2,
+      "name": "Priya Patel",
+      "title": "Dr. Priya Patel, MD",
+      "address": "456, XYZ Road,\nMarine Lines,\nMumbai - 400020,\nIndia"
+    },
+    {
+      "id": 3,
+      "name": "Amit Singh",
+      "title": "Senior Software Engineer",
+      "address": "789, PQR Avenue,\nElectronic City,\nBangalore - 560100,\nIndia"
+    },
+    {
+      "id": 4,
+      "name": "Sneha Gupta",
+      "title": "Financial Analyst",
+      "address": "321, LMN Lane,\nMalad West,\nMumbai - 400064,\nIndia"
+    },
+    {
+      "id": 5,
+      "name": "Kiran Kumar",
+      "title": "Marketing Manager",
+      "address": "567, RST Road,\nKormangala,\nBangalore - 560034,\nIndia"
+    },
+    {
+      "id": 6,
+      "name": "Deepak Sharma",
+      "title": "Graphic Designer",
+      "address": "890, UVW Street,\nDwarka,\nNew Delhi - 110075,\nIndia"
+    },
+    {
+      "id": 7,
+      "name": "Neha Shah",
+      "title": "Software Developer",
+      "address": "234, EFG Avenue,\nAndheri East,\nMumbai - 400069,\nIndia"
+    },
+    {
+      "id": 8,
+      "name": "Rajesh Verma",
+      "title": "Accountant",
+      "address": "678, JKL Road,\nWhitefield,\nBangalore - 560066,\nIndia"
+    },
+    {
+      "id": 9,
+      "name": "Anjali Singh",
+      "title": "Human Resources Manager",
+      "address": "912, OPQ Lane,\nNoida Sector 18,\nNoida - 201301,\nIndia"
+    },
+    {
+      "id": 10,
+      "name": "Vikas Patel",
+      "title": "Architect",
+      "address": "345, GHI Street,\nAndheri West,\nMumbai - 400053,\nIndia"
+    },
+    {
+      "id": 11,
+      "name": "Pooja Sharma",
+      "title": "Fashion Designer",
+      "address": "678, MNO Avenue,\nKalyan Nagar,\nBangalore - 560043,\nIndia"
+    },
+    {
+      "id": 12,
+      "name": "Arun Kumar",
+      "title": "Sales Executive",
+      "address": "910, STU Road,\nGoregaon East,\nMumbai - 400063,\nIndia"
+    },
+    {
+      "id": 13,
+      "name": "Riya Mishra",
+      "title": "Event Planner",
+      "address": "123, XYZ Lane,\nChembur,\nMumbai - 400071,\nIndia"
+    },
+    {
+      "id": 14,
+      "name": "Rajiv Khanna",
+      "title": "Management Consultant",
+      "address": "456, ABC Street,\nJayanagar,\nBangalore - 560041,\nIndia"
+    },
+    {
+      "id": 15,
+      "name": "Shweta Singh",
+      "title": "Data Analyst",
+      "address": "789, DEF Avenue,\nVasai East,\nMumbai - 401208,\nIndia"
+    },
+    {
+      "id": 16,
+      "name": "Mohit Gupta",
+      "title": "Mechanical Engineer",
+      "address": "890, LMN Street,\nHSR Layout,\nBangalore - 560102,\nIndia"
+    },
+    {
+      "id": 17,
+      "name": "Anita Desai",
+      "title": "Interior Designer",
+      "address": "234, GHI Lane,\nBorivali West,\nMumbai - 400092,\nIndia"
+    },
+    {
+      "id": 18,
+      "name": "Sanjay Sharma",
+      "title": "Product Manager",
+      "address": "567, UVW Road,\nIndiranagar,\nBangalore - 560038,\nIndia"
+    },
+    {
+      "id": 19,
+      "name": "Meera Reddy",
+      "title": "Financial Advisor",
+      "address": "890, MNO Street,\nKandivali East,\nMumbai - 400101,\nIndia"
+    },
+    {
+      "id": 20,
+      "name": "Rajni Gupta",
+      "title": "Lawyer",
+      "address": "123, PQR Lane,\nJuhu,\nMumbai - 400049,\nIndia"
+    },
+    {
+      "id": 21,
+      "name": "Vivek Tiwari",
+      "title": "Civil Engineer",
+      "address": "456, EFG Road,\nMalad East,\nMumbai - 400097,\nIndia"
+    },
+    {
+      "id": 22,
+      "name": "Sunita Patel",
+      "title": "Dentist",
+      "address": "789, RST Avenue,\nPowai,\nMumbai - 400076,\nIndia"
+    },
+    {
+      "id": 23,
+      "name": "Alok Jain",
+      "title": "Project Manager",
+      "address": "912, OPQ Street,\nThane West,\nMumbai - 400601,\nIndia"
+    },
+    {
+      "id": 24,
+      "name": "Neha Gupta",
+      "title": "Research Scientist",
+      "address": "345, JKL Lane,\nKandivali West,\nMumbai - 400067,\nIndia"
+    },
+    {
+      "id": 25,
+      "name": "Rajendra Singh",
+      "title": "Professor",
+      "address": "678, PQR Road,\nDadar,\nMumbai - 400014,\nIndia"
+    },
+    {
+      "id": 26,
+      "name": "Sneha Sharma",
+      "title": "Pharmacist",
+      "address": "910, GHI Avenue,\nAndheri East,\nMumbai - 400093,\nIndia"
+    },
+    {
+      "id": 27,
+      "name": "Vinay Kumar",
+      "title": "IT Consultant",
+      "address": "123, DEF Lane,\nWorli,\nMumbai - 400018,\nIndia"
+    },
+    {
+      "id": 28,
+      "name": "Nisha Gupta",
+      "title": "Executive Assistant",
+      "address": "456, STU Street,\nGhatkopar,\nMumbai - 400086,\nIndia"
+    },
+    {
+      "id": 29,
+      "name": "Kunal Sharma",
+      "title": "Web Developer",
+      "address": "789, ABC Avenue,\nVile Parle,\nMumbai - 400056,\nIndia"
+    },
+    {
+      "id": 30,
+      "name": "Rajani Yadav",
+      "title": "Social Worker",
+      "address": "890, XYZ Road,\nBandra,\nMumbai - 400050,\nIndia"
+    }
+  ]
+}
