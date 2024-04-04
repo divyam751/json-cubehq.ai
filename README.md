@@ -1,1 +1,1 @@
-# json-cubehq.ai
+# Backend CUBE
